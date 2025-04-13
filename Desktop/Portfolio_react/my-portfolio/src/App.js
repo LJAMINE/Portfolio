@@ -10,11 +10,9 @@ function App() {
   return (
     <div className="bg-gray-100">
       <Navbar />
-      
       <section id="home" className="min-h-screen flex items-center">
         <Home />
       </section>
-      
       <section id="about" className="py-16 bg-white">
         <About />
       </section>

@@ -12,6 +12,7 @@ function Navbar() {
           </div>
           
           {/* Desktop Menu */}
+          
           <div className="hidden md:flex space-x-8">
             <a href="#home" className="hover:text-blue-600">Home</a>
             <a href="#about" className="hover:text-blue-600">About</a>
